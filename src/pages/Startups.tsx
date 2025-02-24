@@ -5,10 +5,10 @@ import SuccessStoryModal from "./SuccessStoryModal"; // Ensure this is correctly
 
 const startups = [
   {
-    name: "BioTech Bihar",
-    category: "AgriTech",
+    name: "CSDP FOOD UNIT",
+    category: "FMCG",
     image:
-      "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=800",
+      "https://i.ibb.co/mCHBL5Yd/1.png",
     description:
       "Revolutionizing agricultural practices with biotechnology solutions.",
     funding: "₹50L+",
@@ -20,10 +20,10 @@ const startups = [
       "Helped 10,000+ farmers increase crop yield by 40% through sustainable farming practices.",
   },
   {
-    name: "TechEd Solutions",
-    category: "EdTech",
+    name: "Shirshti Mahima Detergent",
+    category: "FMCG",
     image:
-      "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80&w=800",
+      "https://i.ibb.co/FkV5kcwH/2.png",
     description: "Making quality education accessible to rural Bihar.",
     funding: "₹25L+",
     users: "10000+",
@@ -33,10 +33,24 @@ const startups = [
     impact: "Provided affordable education to 10,000+ students in rural areas.",
   },
   {
-    name: "AI Innovations",
-    category: "Artificial Intelligence",
+    name: "Kanchan Masala",
+    category: "FMCG",
     image:
-      "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&q=80&w=800",
+      "https://i.ibb.co/pBLJ5vvY/4.png",
+    description: "Developing AI solutions for local businesses.",
+    funding: "₹75L+",
+    users: "500+",
+    growth: "150%",
+    video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    team: ["Vikram Singh", "Neha Gupta", "Arun Kumar"],
+    impact: "Helped 500+ SMEs automate operations and increase efficiency by 60%.",
+  },
+
+  {
+    name: "Durga Food Products",
+    category: "FMCG",
+    image:
+      "https://i.ibb.co/Kp3tgKjD/3.png",
     description: "Developing AI solutions for local businesses.",
     funding: "₹75L+",
     users: "500+",
